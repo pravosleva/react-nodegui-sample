@@ -4,6 +4,13 @@
 
 <img alt="logo" src="https://github.com/nodegui/react-nodegui-starter/raw/master/assets/demo.png" height="500" />
 
+## Possible throubles
+
+### Ubuntu
+
+1. Install CMake
+2. `sudo apt-get install mesa-common-dev libglu1-mesa-dev`
+
 ## To Use
 
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
